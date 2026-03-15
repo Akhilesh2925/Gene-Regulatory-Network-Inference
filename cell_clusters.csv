@@ -1,0 +1,649 @@
+,leiden,cell_type
+1772067055_A07,7,
+1772067055_A09,4,Immune cells
+1772067055_B01,4,Immune cells
+1772067055_B07,0,Basal cells
+1772067055_B09,4,Immune cells
+1772067055_B10,4,Immune cells
+1772067055_C03,7,
+1772067055_C06,4,Immune cells
+1772067055_C08,3,Hair follicle cells
+1772067055_D05,4,Immune cells
+1772067055_D09,4,Immune cells
+1772067055_E03,0,Basal cells
+1772067055_E05,4,Immune cells
+1772067055_E09,4,Immune cells
+1772067055_F06,4,Immune cells
+1772067055_F07,0,Basal cells
+1772067055_F08,7,
+1772067055_F10,0,Basal cells
+1772067055_F12,1,Spinous cells
+1772067055_G09,3,Hair follicle cells
+1772067055_G10,0,Basal cells
+1772067055_H06,4,Immune cells
+1772067055_H11,1,Spinous cells
+1772067055_H12,4,Immune cells
+1772067056_A04,2,Granular cells
+1772067056_A06,1,Spinous cells
+1772067056_A11,1,Spinous cells
+1772067056_A12,8,
+1772067056_B12,1,Spinous cells
+1772067056_C01,0,Basal cells
+1772067056_C02,8,
+1772067056_C05,1,Spinous cells
+1772067056_C12,8,
+1772067056_D06,0,Basal cells
+1772067056_D09,0,Basal cells
+1772067056_D10,0,Basal cells
+1772067056_E02,0,Basal cells
+1772067056_E03,1,Spinous cells
+1772067056_E05,0,Basal cells
+1772067056_E06,2,Granular cells
+1772067056_F01,2,Granular cells
+1772067056_F02,2,Granular cells
+1772067056_F04,1,Spinous cells
+1772067056_F05,8,
+1772067056_F10,0,Basal cells
+1772067056_F11,2,Granular cells
+1772067056_G04,7,
+1772067056_H10,1,Spinous cells
+1772067071_B04,4,Immune cells
+1772067071_B07,4,Immune cells
+1772067071_C01,4,Immune cells
+1772067071_C02,1,Spinous cells
+1772067071_E12,6,
+1772067071_G03,4,Immune cells
+1772067071_H09,4,Immune cells
+1772067072_A01,1,Spinous cells
+1772067072_A04,5,
+1772067072_A06,7,
+1772067072_A07,1,Spinous cells
+1772067072_A08,0,Basal cells
+1772067072_A09,0,Basal cells
+1772067072_B02,0,Basal cells
+1772067072_C04,3,Hair follicle cells
+1772067072_C06,1,Spinous cells
+1772067072_E02,0,Basal cells
+1772067072_E05,3,Hair follicle cells
+1772067072_E07,0,Basal cells
+1772067072_F04,3,Hair follicle cells
+1772067072_F05,2,Granular cells
+1772067072_G12,1,Spinous cells
+1772067075_A01,7,
+1772067075_A04,0,Basal cells
+1772067075_A09,0,Basal cells
+1772067075_B03,0,Basal cells
+1772067075_C01,0,Basal cells
+1772067075_C02,4,Immune cells
+1772067075_C03,4,Immune cells
+1772067075_C08,3,Hair follicle cells
+1772067075_C09,7,
+1772067075_C12,1,Spinous cells
+1772067075_D02,4,Immune cells
+1772067075_D07,4,Immune cells
+1772067075_E01,4,Immune cells
+1772067075_E03,0,Basal cells
+1772067075_E06,0,Basal cells
+1772067075_F01,1,Spinous cells
+1772067075_F02,3,Hair follicle cells
+1772067075_F07,4,Immune cells
+1772067075_F10,4,Immune cells
+1772067075_F11,0,Basal cells
+1772067075_G01,4,Immune cells
+1772067075_G05,4,Immune cells
+1772067075_G07,7,
+1772067075_G12,0,Basal cells
+1772067075_H05,0,Basal cells
+1772067075_H06,1,Spinous cells
+1772067075_H11,4,Immune cells
+1772067078_A01,4,Immune cells
+1772067078_A03,4,Immune cells
+1772067078_A04,4,Immune cells
+1772067078_A06,4,Immune cells
+1772067078_A09,0,Basal cells
+1772067078_A10,0,Basal cells
+1772067078_B02,0,Basal cells
+1772067078_B06,4,Immune cells
+1772067078_B07,5,
+1772067078_C01,0,Basal cells
+1772067078_C03,3,Hair follicle cells
+1772067078_C05,4,Immune cells
+1772067078_D01,0,Basal cells
+1772067078_D03,0,Basal cells
+1772067078_D04,1,Spinous cells
+1772067078_D06,0,Basal cells
+1772067078_D07,1,Spinous cells
+1772067078_D08,0,Basal cells
+1772067078_E02,0,Basal cells
+1772067078_E07,0,Basal cells
+1772067078_F01,4,Immune cells
+1772067078_F10,4,Immune cells
+1772067078_F11,7,
+1772067078_G05,7,
+1772067078_G08,3,Hair follicle cells
+1772067078_G12,0,Basal cells
+1772067078_H05,0,Basal cells
+1772067078_H08,4,Immune cells
+1772067078_H12,0,Basal cells
+1772067080_A04,1,Spinous cells
+1772067080_A05,2,Granular cells
+1772067080_A07,3,Hair follicle cells
+1772067080_A08,3,Hair follicle cells
+1772067080_B04,1,Spinous cells
+1772067080_C02,2,Granular cells
+1772067080_C07,3,Hair follicle cells
+1772067080_D08,0,Basal cells
+1772067080_E01,3,Hair follicle cells
+1772067080_E04,1,Spinous cells
+1772067080_E07,1,Spinous cells
+1772067080_G09,3,Hair follicle cells
+1772067084_B09,7,
+1772067084_C03,7,
+1772067084_D11,3,Hair follicle cells
+1772067084_E02,3,Hair follicle cells
+1772067084_E04,7,
+1772067084_E07,1,Spinous cells
+1772067084_G09,7,
+1772067085_A10,5,
+1772067085_C01,0,Basal cells
+1772067085_C05,5,
+1772067085_D01,1,Spinous cells
+1772067085_D05,1,Spinous cells
+1772067085_D07,2,Granular cells
+1772067085_E01,6,
+1772067085_F09,0,Basal cells
+1772067085_G08,3,Hair follicle cells
+1772067085_H07,1,Spinous cells
+1772067086_A03,4,Immune cells
+1772067086_A07,0,Basal cells
+1772067086_A11,4,Immune cells
+1772067086_B12,7,
+1772067086_C02,8,
+1772067086_C06,4,Immune cells
+1772067086_C07,0,Basal cells
+1772067086_C12,3,Hair follicle cells
+1772067086_D01,0,Basal cells
+1772067086_D06,4,Immune cells
+1772067086_D11,7,
+1772067086_E01,4,Immune cells
+1772067086_E04,0,Basal cells
+1772067086_F10,4,Immune cells
+1772067086_F12,2,Granular cells
+1772067086_G05,2,Granular cells
+1772067086_G12,3,Hair follicle cells
+1772067086_H06,0,Basal cells
+1772067087_A07,2,Granular cells
+1772067087_A09,0,Basal cells
+1772067087_A10,2,Granular cells
+1772067087_B05,0,Basal cells
+1772067087_B07,0,Basal cells
+1772067087_B09,1,Spinous cells
+1772067087_C03,2,Granular cells
+1772067087_C04,6,
+1772067087_C06,1,Spinous cells
+1772067087_C10,1,Spinous cells
+1772067087_D02,3,Hair follicle cells
+1772067087_D03,2,Granular cells
+1772067087_D07,3,Hair follicle cells
+1772067087_D08,0,Basal cells
+1772067087_D11,8,
+1772067087_E03,6,
+1772067087_E08,5,
+1772067087_E10,1,Spinous cells
+1772067087_E12,8,
+1772067087_F04,5,
+1772067087_F11,4,Immune cells
+1772067087_G02,0,Basal cells
+1772067087_H08,3,Hair follicle cells
+1772067087_H12,2,Granular cells
+1772067090_A02,3,Hair follicle cells
+1772067090_B11,0,Basal cells
+1772067090_C11,7,
+1772067090_D05,0,Basal cells
+1772067090_D06,7,
+1772067090_E09,0,Basal cells
+1772067090_F10,4,Immune cells
+1772067090_G02,4,Immune cells
+1772067090_G11,2,Granular cells
+1772067095_A01,0,Basal cells
+1772067095_C06,7,
+1772067095_D03,3,Hair follicle cells
+1772067095_D06,0,Basal cells
+1772067095_D07,0,Basal cells
+1772067095_D08,1,Spinous cells
+1772067095_D09,0,Basal cells
+1772067095_F10,0,Basal cells
+1772067095_G05,0,Basal cells
+1772067095_G10,1,Spinous cells
+1772067095_G11,0,Basal cells
+1772067095_H04,2,Granular cells
+1772071025_A01,0,Basal cells
+1772071025_A05,0,Basal cells
+1772071025_A07,0,Basal cells
+1772071025_A09,2,Granular cells
+1772071025_A10,6,
+1772071025_B06,0,Basal cells
+1772071025_B07,3,Hair follicle cells
+1772071025_B12,0,Basal cells
+1772071025_C02,2,Granular cells
+1772071025_C05,4,Immune cells
+1772071025_C08,1,Spinous cells
+1772071025_C09,0,Basal cells
+1772071025_C10,2,Granular cells
+1772071025_D01,4,Immune cells
+1772071025_D04,2,Granular cells
+1772071025_D06,0,Basal cells
+1772071025_D08,0,Basal cells
+1772071025_E03,1,Spinous cells
+1772071025_E07,2,Granular cells
+1772071025_E09,6,
+1772071025_E12,1,Spinous cells
+1772071025_F06,6,
+1772071025_G04,0,Basal cells
+1772071025_G06,0,Basal cells
+1772071025_G12,2,Granular cells
+1772071025_H01,0,Basal cells
+1772071025_H03,6,
+1772071025_H07,3,Hair follicle cells
+1772071026_A05,3,Hair follicle cells
+1772071026_A10,6,
+1772071026_B01,1,Spinous cells
+1772071026_B02,0,Basal cells
+1772071026_B05,5,
+1772071026_B07,1,Spinous cells
+1772071026_B08,6,
+1772071026_B09,1,Spinous cells
+1772071026_B10,1,Spinous cells
+1772071026_C03,3,Hair follicle cells
+1772071026_D07,5,
+1772071026_D10,3,Hair follicle cells
+1772071026_D12,1,Spinous cells
+1772071026_E04,2,Granular cells
+1772071026_F05,3,Hair follicle cells
+1772071026_F10,0,Basal cells
+1772071026_G06,0,Basal cells
+1772071026_H04,1,Spinous cells
+1772071026_H06,1,Spinous cells
+1772071026_H11,2,Granular cells
+1772071032_A01,0,Basal cells
+1772071032_A07,1,Spinous cells
+1772071032_A08,2,Granular cells
+1772071032_B02,3,Hair follicle cells
+1772071032_B03,1,Spinous cells
+1772071032_B09,3,Hair follicle cells
+1772071032_B10,2,Granular cells
+1772071032_B12,2,Granular cells
+1772071032_C05,0,Basal cells
+1772071032_C06,3,Hair follicle cells
+1772071032_C09,1,Spinous cells
+1772071032_D02,2,Granular cells
+1772071032_D06,0,Basal cells
+1772071032_D09,6,
+1772071032_D10,1,Spinous cells
+1772071032_D11,2,Granular cells
+1772071032_D12,2,Granular cells
+1772071032_E01,1,Spinous cells
+1772071032_E02,2,Granular cells
+1772071032_E05,1,Spinous cells
+1772071032_E07,1,Spinous cells
+1772071032_F02,2,Granular cells
+1772071032_F03,1,Spinous cells
+1772071032_F05,1,Spinous cells
+1772071032_F09,1,Spinous cells
+1772071032_F11,1,Spinous cells
+1772071032_G04,1,Spinous cells
+1772071034_A01,1,Spinous cells
+1772071034_A02,2,Granular cells
+1772071034_A04,0,Basal cells
+1772071034_A10,0,Basal cells
+1772071034_A11,1,Spinous cells
+1772071034_A12,0,Basal cells
+1772071034_B01,1,Spinous cells
+1772071034_B06,2,Granular cells
+1772071034_C05,6,
+1772071034_C06,1,Spinous cells
+1772071034_C09,0,Basal cells
+1772071034_D01,5,
+1772071034_D02,0,Basal cells
+1772071034_D03,0,Basal cells
+1772071034_D08,1,Spinous cells
+1772071034_D10,2,Granular cells
+1772071034_E01,1,Spinous cells
+1772071034_E04,1,Spinous cells
+1772071034_E07,0,Basal cells
+1772071034_E10,0,Basal cells
+1772071034_E12,3,Hair follicle cells
+1772071034_F03,0,Basal cells
+1772071034_F10,4,Immune cells
+1772071034_F12,1,Spinous cells
+1772071034_G04,1,Spinous cells
+1772071034_G05,2,Granular cells
+1772071034_G08,6,
+1772071034_G12,1,Spinous cells
+1772071034_H08,6,
+1772071034_H12,0,Basal cells
+1772071037_A02,4,Immune cells
+1772071037_A06,4,Immune cells
+1772071037_A07,4,Immune cells
+1772071037_B03,4,Immune cells
+1772071037_B05,0,Basal cells
+1772071037_B07,3,Hair follicle cells
+1772071037_B12,4,Immune cells
+1772071037_C02,4,Immune cells
+1772071037_C03,0,Basal cells
+1772071037_C05,0,Basal cells
+1772071037_C08,0,Basal cells
+1772071037_C10,4,Immune cells
+1772071037_D02,4,Immune cells
+1772071037_D03,4,Immune cells
+1772071037_D05,4,Immune cells
+1772071037_E01,4,Immune cells
+1772071037_E05,4,Immune cells
+1772071037_E10,0,Basal cells
+1772071037_E12,0,Basal cells
+1772071037_G04,4,Immune cells
+1772071037_G05,4,Immune cells
+1772071037_G06,0,Basal cells
+1772071037_G07,0,Basal cells
+1772071037_G08,4,Immune cells
+1772071037_G11,4,Immune cells
+1772071037_G12,7,
+1772071037_H02,0,Basal cells
+1772071037_H05,0,Basal cells
+1772071037_H12,1,Spinous cells
+1772071039_A02,1,Spinous cells
+1772071039_A03,2,Granular cells
+1772071039_A08,2,Granular cells
+1772071039_B02,0,Basal cells
+1772071039_B03,7,
+1772071039_B09,2,Granular cells
+1772071039_B10,0,Basal cells
+1772071039_C03,2,Granular cells
+1772071039_C05,0,Basal cells
+1772071039_C07,2,Granular cells
+1772071039_C10,2,Granular cells
+1772071039_D03,2,Granular cells
+1772071039_D10,1,Spinous cells
+1772071039_D12,4,Immune cells
+1772071039_E10,0,Basal cells
+1772071039_F05,1,Spinous cells
+1772071039_F06,2,Granular cells
+1772071039_F10,0,Basal cells
+1772071039_F11,1,Spinous cells
+1772071039_F12,6,
+1772071039_G04,0,Basal cells
+1772071039_G06,2,Granular cells
+1772071039_H02,3,Hair follicle cells
+1772071039_H06,0,Basal cells
+1772071039_H10,1,Spinous cells
+1772071039_H11,0,Basal cells
+1772071039_H12,0,Basal cells
+1772071051_A03,2,Granular cells
+1772071051_A05,0,Basal cells
+1772071051_A06,2,Granular cells
+1772071051_A10,0,Basal cells
+1772071051_A11,0,Basal cells
+1772071051_B03,2,Granular cells
+1772071051_B04,8,
+1772071051_B07,0,Basal cells
+1772071051_B10,3,Hair follicle cells
+1772071051_C02,1,Spinous cells
+1772071051_C03,1,Spinous cells
+1772071051_C04,0,Basal cells
+1772071051_C07,3,Hair follicle cells
+1772071051_C09,0,Basal cells
+1772071051_D06,2,Granular cells
+1772071051_D07,0,Basal cells
+1772071051_D10,1,Spinous cells
+1772071051_D11,0,Basal cells
+1772071051_E11,5,
+1772071051_E12,1,Spinous cells
+1772071051_F05,3,Hair follicle cells
+1772071051_F12,3,Hair follicle cells
+1772071051_G06,2,Granular cells
+1772071051_G12,0,Basal cells
+1772071061_A02,6,
+1772071061_A08,3,Hair follicle cells
+1772071061_B06,1,Spinous cells
+1772071061_B08,2,Granular cells
+1772071061_C03,1,Spinous cells
+1772071061_C05,5,
+1772071061_C06,8,
+1772071061_C07,5,
+1772071061_C11,1,Spinous cells
+1772071061_D08,7,
+1772071061_E07,0,Basal cells
+1772071061_E11,7,
+1772071061_E12,0,Basal cells
+1772071061_F07,2,Granular cells
+1772071061_F09,1,Spinous cells
+1772071061_G05,2,Granular cells
+1772071061_H06,1,Spinous cells
+1772071063_A01,1,Spinous cells
+1772071063_A03,5,
+1772071063_A04,1,Spinous cells
+1772071063_A06,2,Granular cells
+1772071063_A10,8,
+1772071063_B05,1,Spinous cells
+1772071063_B08,7,
+1772071063_B09,2,Granular cells
+1772071063_C02,0,Basal cells
+1772071063_C03,0,Basal cells
+1772071063_C04,6,
+1772071063_C06,2,Granular cells
+1772071063_C09,4,Immune cells
+1772071063_C12,0,Basal cells
+1772071063_D02,2,Granular cells
+1772071063_D04,1,Spinous cells
+1772071063_D07,6,
+1772071063_D09,1,Spinous cells
+1772071063_E02,3,Hair follicle cells
+1772071063_E09,0,Basal cells
+1772071063_E12,0,Basal cells
+1772071063_F01,1,Spinous cells
+1772071063_F12,1,Spinous cells
+1772071063_G05,5,
+1772071063_G06,2,Granular cells
+1772071063_G09,3,Hair follicle cells
+1772071063_G11,4,Immune cells
+1772071063_H04,1,Spinous cells
+1772071063_H10,2,Granular cells
+1772071063_H12,5,
+1772071066_A02,0,Basal cells
+1772071066_A03,5,
+1772071066_A05,0,Basal cells
+1772071066_A09,3,Hair follicle cells
+1772071066_B01,6,
+1772071066_B06,0,Basal cells
+1772071066_B10,5,
+1772071066_C03,1,Spinous cells
+1772071066_C10,2,Granular cells
+1772071066_D02,1,Spinous cells
+1772071066_D05,1,Spinous cells
+1772071066_D06,1,Spinous cells
+1772071066_D09,3,Hair follicle cells
+1772071066_E01,3,Hair follicle cells
+1772071066_E04,1,Spinous cells
+1772071066_E05,1,Spinous cells
+1772071066_E10,1,Spinous cells
+1772071066_E11,1,Spinous cells
+1772071066_F04,8,
+1772071066_F05,1,Spinous cells
+1772071066_F06,1,Spinous cells
+1772071066_F09,3,Hair follicle cells
+1772071066_G01,2,Granular cells
+1772071066_G06,1,Spinous cells
+1772071066_G10,6,
+1772071066_G11,5,
+1772071066_H11,6,
+1772071066_H12,2,Granular cells
+1772071068_A01,2,Granular cells
+1772071068_A03,0,Basal cells
+1772071068_A04,1,Spinous cells
+1772071068_A07,8,
+1772071068_A08,0,Basal cells
+1772071068_A09,6,
+1772071068_A11,0,Basal cells
+1772071068_B07,5,
+1772071068_B08,2,Granular cells
+1772071068_B10,8,
+1772071068_C03,5,
+1772071068_C04,1,Spinous cells
+1772071068_C05,5,
+1772071068_C08,3,Hair follicle cells
+1772071068_C12,6,
+1772071068_D02,2,Granular cells
+1772071068_D03,1,Spinous cells
+1772071068_D04,6,
+1772071068_D05,3,Hair follicle cells
+1772071068_D06,1,Spinous cells
+1772071068_D07,1,Spinous cells
+1772071068_D10,1,Spinous cells
+1772071068_E03,0,Basal cells
+1772071068_E09,1,Spinous cells
+1772071068_E10,8,
+1772071068_E11,3,Hair follicle cells
+1772071068_F01,0,Basal cells
+1772071068_F07,0,Basal cells
+1772071068_F09,0,Basal cells
+1772071068_F11,2,Granular cells
+1772071068_F12,1,Spinous cells
+1772071068_G04,5,
+1772071068_G05,1,Spinous cells
+1772071068_G06,1,Spinous cells
+1772071068_H01,3,Hair follicle cells
+1772071068_H04,1,Spinous cells
+1772071068_H06,2,Granular cells
+1772072256_A02,1,Spinous cells
+1772072256_A04,1,Spinous cells
+1772072256_B07,0,Basal cells
+1772072256_B10,0,Basal cells
+1772072256_C07,2,Granular cells
+1772072256_D01,3,Hair follicle cells
+1772072256_D10,5,
+1772072256_D11,1,Spinous cells
+1772072256_G05,1,Spinous cells
+1772072256_G10,2,Granular cells
+1772072256_H11,5,
+1772072259_C05,3,Hair follicle cells
+1772072259_C11,1,Spinous cells
+1772072259_E02,5,
+1772072259_E04,1,Spinous cells
+1772072259_E07,0,Basal cells
+1772072259_F01,3,Hair follicle cells
+1772072259_F10,1,Spinous cells
+1772072259_F11,5,
+1772072259_F12,0,Basal cells
+1772072259_G04,5,
+1772072259_G06,0,Basal cells
+1772072259_G09,0,Basal cells
+1772072259_H02,3,Hair follicle cells
+1772072261_A05,1,Spinous cells
+1772072261_B04,3,Hair follicle cells
+1772072261_B12,0,Basal cells
+1772072261_C07,1,Spinous cells
+1772072261_C09,3,Hair follicle cells
+1772072261_E01,0,Basal cells
+1772072261_F01,0,Basal cells
+1772072261_F03,0,Basal cells
+1772072261_G09,0,Basal cells
+1772072263_A08,1,Spinous cells
+1772072263_B03,2,Granular cells
+1772072263_B06,2,Granular cells
+1772072263_B11,1,Spinous cells
+1772072263_B12,2,Granular cells
+1772072263_C02,1,Spinous cells
+1772072263_C03,5,
+1772072263_C06,1,Spinous cells
+1772072263_C11,1,Spinous cells
+1772072263_D10,1,Spinous cells
+1772072263_E05,1,Spinous cells
+1772072263_E12,1,Spinous cells
+1772072263_F11,1,Spinous cells
+1772072263_G04,0,Basal cells
+1772072263_G10,2,Granular cells
+1772072263_H04,0,Basal cells
+1772072263_H05,5,
+1772072263_H12,2,Granular cells
+1772072275_A05,2,Granular cells
+1772072275_A11,2,Granular cells
+1772072275_A12,1,Spinous cells
+1772072275_D04,1,Spinous cells
+1772072275_D12,1,Spinous cells
+1772072275_F06,1,Spinous cells
+1772072275_F11,2,Granular cells
+1772072275_G04,1,Spinous cells
+1772072275_G07,5,
+1772072275_H08,0,Basal cells
+1772072276_A04,2,Granular cells
+1772072276_A06,2,Granular cells
+1772072276_A07,5,
+1772072276_A08,2,Granular cells
+1772072276_A12,2,Granular cells
+1772072276_B03,2,Granular cells
+1772072276_B10,5,
+1772072276_B12,3,Hair follicle cells
+1772072276_C02,3,Hair follicle cells
+1772072276_D02,1,Spinous cells
+1772072276_D10,2,Granular cells
+1772072276_E02,5,
+1772072276_E12,0,Basal cells
+1772072276_F10,1,Spinous cells
+1772072276_H01,3,Hair follicle cells
+1772072276_H05,1,Spinous cells
+1772072276_H08,6,
+1772072282_A09,1,Spinous cells
+1772072282_B06,1,Spinous cells
+1772072282_B07,2,Granular cells
+1772072282_B08,1,Spinous cells
+1772072282_C02,2,Granular cells
+1772072282_C08,2,Granular cells
+1772072282_D02,2,Granular cells
+1772072282_D04,4,Immune cells
+1772072282_D05,0,Basal cells
+1772072282_D06,1,Spinous cells
+1772072282_D07,5,
+1772072282_D10,3,Hair follicle cells
+1772072282_E09,1,Spinous cells
+1772072282_E12,2,Granular cells
+1772072282_F02,3,Hair follicle cells
+1772072282_F07,1,Spinous cells
+1772072283_A01,2,Granular cells
+1772072283_A08,8,
+1772072283_A11,0,Basal cells
+1772072283_B01,1,Spinous cells
+1772072283_B09,1,Spinous cells
+1772072283_C01,2,Granular cells
+1772072283_C02,2,Granular cells
+1772072283_C08,2,Granular cells
+1772072283_D02,5,
+1772072283_D08,1,Spinous cells
+1772072283_E05,1,Spinous cells
+1772072283_E07,3,Hair follicle cells
+1772072283_F03,3,Hair follicle cells
+1772072283_F07,5,
+1772072283_G02,0,Basal cells
+1772072283_G03,2,Granular cells
+1772072283_G04,2,Granular cells
+1772072283_G05,1,Spinous cells
+1772072283_H08,0,Basal cells
+1772072283_H09,3,Hair follicle cells
+1772072284_B02,2,Granular cells
+1772072284_B10,0,Basal cells
+1772072284_C04,6,
+1772072284_C05,0,Basal cells
+1772072284_C08,0,Basal cells
+1772072284_C11,2,Granular cells
+1772072284_E01,3,Hair follicle cells
+1772072284_E10,8,
+1772072284_F05,2,Granular cells
+1772072284_F10,5,
+1772072284_G03,6,
+1772072284_H11,2,Granular cells
+1772072284_H12,8,
+1772072285_B03,3,Hair follicle cells
+1772072285_B07,3,Hair follicle cells
+1772072285_C01,2,Granular cells
+1772072285_C12,2,Granular cells
+1772072285_D03,1,Spinous cells
+1772072285_D09,3,Hair follicle cells
